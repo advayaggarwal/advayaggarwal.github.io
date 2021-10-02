@@ -25,6 +25,10 @@ body{
     font-weight: 300;
 }
 
+.intro p{
+    font-weight: 300;
+}
+
 .footer-link {
     margin-right: 18px;
 }

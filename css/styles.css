@@ -24,3 +24,11 @@ body{
 .intro h3{
     font-weight: 300;
 }
+
+.footer-link {
+    margin-right: 18px;
+}
+
+.bottom-container {
+    padding: 20px 0 20px;
+}
